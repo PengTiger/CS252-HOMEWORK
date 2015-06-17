@@ -1,0 +1,6 @@
+c:\users\m_pofan\documents\visual studio 2013\Projects\Square\Square\bin\Debug\Square.exe.config
+c:\users\m_pofan\documents\visual studio 2013\Projects\Square\Square\bin\Debug\Square.exe
+c:\users\m_pofan\documents\visual studio 2013\Projects\Square\Square\bin\Debug\Square.pdb
+c:\users\m_pofan\documents\visual studio 2013\Projects\Square\Square\obj\Debug\Square.csprojResolveAssemblyReference.cache
+c:\users\m_pofan\documents\visual studio 2013\Projects\Square\Square\obj\Debug\Square.exe
+c:\users\m_pofan\documents\visual studio 2013\Projects\Square\Square\obj\Debug\Square.pdb

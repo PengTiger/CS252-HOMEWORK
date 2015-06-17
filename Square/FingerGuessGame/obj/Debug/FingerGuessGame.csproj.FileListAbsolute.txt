@@ -1,0 +1,6 @@
+c:\Users\M_POFAN\documents\visual studio 2013\Projects\Square\FingerGuessGame\bin\Debug\FingerGuessGame.exe.config
+c:\Users\M_POFAN\documents\visual studio 2013\Projects\Square\FingerGuessGame\bin\Debug\FingerGuessGame.exe
+c:\Users\M_POFAN\documents\visual studio 2013\Projects\Square\FingerGuessGame\bin\Debug\FingerGuessGame.pdb
+c:\Users\M_POFAN\documents\visual studio 2013\Projects\Square\FingerGuessGame\obj\Debug\FingerGuessGame.csprojResolveAssemblyReference.cache
+c:\Users\M_POFAN\documents\visual studio 2013\Projects\Square\FingerGuessGame\obj\Debug\FingerGuessGame.exe
+c:\Users\M_POFAN\documents\visual studio 2013\Projects\Square\FingerGuessGame\obj\Debug\FingerGuessGame.pdb

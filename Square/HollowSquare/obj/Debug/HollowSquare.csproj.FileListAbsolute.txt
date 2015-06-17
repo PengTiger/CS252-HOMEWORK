@@ -1,0 +1,6 @@
+c:\Users\M_POFAN\documents\visual studio 2013\Projects\Square\HollowSquare\bin\Debug\HollowSquare.exe.config
+c:\Users\M_POFAN\documents\visual studio 2013\Projects\Square\HollowSquare\bin\Debug\HollowSquare.exe
+c:\Users\M_POFAN\documents\visual studio 2013\Projects\Square\HollowSquare\bin\Debug\HollowSquare.pdb
+c:\Users\M_POFAN\documents\visual studio 2013\Projects\Square\HollowSquare\obj\Debug\HollowSquare.csprojResolveAssemblyReference.cache
+c:\Users\M_POFAN\documents\visual studio 2013\Projects\Square\HollowSquare\obj\Debug\HollowSquare.exe
+c:\Users\M_POFAN\documents\visual studio 2013\Projects\Square\HollowSquare\obj\Debug\HollowSquare.pdb

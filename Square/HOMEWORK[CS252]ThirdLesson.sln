@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square", "Square\Square.csproj", "{7D2BAD29-B3BA-4563-87AD-18F3115365CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HollowSquare", "HollowSquare\HollowSquare.csproj", "{09DD8B0D-1624-419F-BFC5-620522B97CFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FingerGuessGame", "FingerGuessGame\FingerGuessGame.csproj", "{DFADE9DD-94DA-43DD-8A7C-636EBDB5C81F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D2BAD29-B3BA-4563-87AD-18F3115365CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2BAD29-B3BA-4563-87AD-18F3115365CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2BAD29-B3BA-4563-87AD-18F3115365CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D2BAD29-B3BA-4563-87AD-18F3115365CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09DD8B0D-1624-419F-BFC5-620522B97CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DD8B0D-1624-419F-BFC5-620522B97CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DD8B0D-1624-419F-BFC5-620522B97CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DD8B0D-1624-419F-BFC5-620522B97CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFADE9DD-94DA-43DD-8A7C-636EBDB5C81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFADE9DD-94DA-43DD-8A7C-636EBDB5C81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFADE9DD-94DA-43DD-8A7C-636EBDB5C81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFADE9DD-94DA-43DD-8A7C-636EBDB5C81F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

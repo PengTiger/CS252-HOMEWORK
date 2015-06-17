@@ -1,0 +1,13 @@
+c:\users\m_pofan\documents\visual studio 2013\Projects\RollingGame\RollingGame\bin\Debug\RollingGame.exe.config
+c:\users\m_pofan\documents\visual studio 2013\Projects\RollingGame\RollingGame\bin\Debug\RollingGame.exe
+c:\users\m_pofan\documents\visual studio 2013\Projects\RollingGame\RollingGame\bin\Debug\RollingGame.pdb
+c:\users\m_pofan\documents\visual studio 2013\Projects\RollingGame\RollingGame\obj\Debug\RollingGame.csprojResolveAssemblyReference.cache
+c:\users\m_pofan\documents\visual studio 2013\Projects\RollingGame\RollingGame\obj\Debug\MainWindow.baml
+c:\users\m_pofan\documents\visual studio 2013\Projects\RollingGame\RollingGame\obj\Debug\MainWindow.g.cs
+c:\users\m_pofan\documents\visual studio 2013\Projects\RollingGame\RollingGame\obj\Debug\App.g.cs
+c:\users\m_pofan\documents\visual studio 2013\Projects\RollingGame\RollingGame\obj\Debug\RollingGame_MarkupCompile.cache
+c:\users\m_pofan\documents\visual studio 2013\Projects\RollingGame\RollingGame\obj\Debug\RollingGame.g.resources
+c:\users\m_pofan\documents\visual studio 2013\Projects\RollingGame\RollingGame\obj\Debug\RollingGame.Properties.Resources.resources
+c:\users\m_pofan\documents\visual studio 2013\Projects\RollingGame\RollingGame\obj\Debug\RollingGame.csproj.GenerateResource.Cache
+c:\users\m_pofan\documents\visual studio 2013\Projects\RollingGame\RollingGame\obj\Debug\RollingGame.exe
+c:\users\m_pofan\documents\visual studio 2013\Projects\RollingGame\RollingGame\obj\Debug\RollingGame.pdb

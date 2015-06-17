@@ -1,0 +1,9 @@
+c:\users\m_pofan\documents\visual studio 2013\Projects\DrawLine\DrawLine\bin\Debug\DrawLine.exe.config
+c:\users\m_pofan\documents\visual studio 2013\Projects\DrawLine\DrawLine\obj\Debug\DrawLine.csprojResolveAssemblyReference.cache
+c:\users\m_pofan\documents\visual studio 2013\Projects\DrawLine\DrawLine\obj\Debug\DrawLine.Properties.Resources.resources
+c:\users\m_pofan\documents\visual studio 2013\Projects\DrawLine\DrawLine\obj\Debug\DrawLine.csproj.GenerateResource.Cache
+c:\users\m_pofan\documents\visual studio 2013\Projects\DrawLine\DrawLine\bin\Debug\DrawLine.exe
+c:\users\m_pofan\documents\visual studio 2013\Projects\DrawLine\DrawLine\bin\Debug\DrawLine.pdb
+c:\users\m_pofan\documents\visual studio 2013\Projects\DrawLine\DrawLine\obj\Debug\DrawLine.exe
+c:\users\m_pofan\documents\visual studio 2013\Projects\DrawLine\DrawLine\obj\Debug\DrawLine.pdb
+c:\users\m_pofan\documents\visual studio 2013\Projects\DrawLine\DrawLine\obj\Debug\DrawLine.Form1.resources
