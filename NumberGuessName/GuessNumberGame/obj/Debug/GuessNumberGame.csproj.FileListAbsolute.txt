@@ -1,0 +1,15 @@
+c:\users\m_pofan\documents\visual studio 2013\Projects\[CS252]HOMEWORK-20150507\GuessNumberGame\bin\Debug\GuessNumberGame.exe.config
+C:\Users\M_POFAN\Documents\Visual Studio 2013\Projects\[CS252]HOMEWORK-20150507\GuessNumberGame\bin\Debug\GuessNumberGame.exe
+C:\Users\M_POFAN\Documents\Visual Studio 2013\Projects\[CS252]HOMEWORK-20150507\GuessNumberGame\bin\Debug\GuessNumberGame.pdb
+C:\Users\M_POFAN\Documents\Visual Studio 2013\Projects\[CS252]HOMEWORK-20150507\GuessNumberGame\obj\Debug\GuessNumberGame.csprojResolveAssemblyReference.cache
+C:\Users\M_POFAN\Documents\Visual Studio 2013\Projects\[CS252]HOMEWORK-20150507\GuessNumberGame\obj\Debug\GuessNumberGame.exe
+C:\Users\M_POFAN\Documents\Visual Studio 2013\Projects\[CS252]HOMEWORK-20150507\GuessNumberGame\obj\Debug\GuessNumberGame.pdb
+G:\[CS252]HOMEWORK-20150507\GuessNumberGame\bin\Debug\GuessNumberGame.exe.config
+G:\[CS252]HOMEWORK-20150507\GuessNumberGame\obj\Debug\GuessNumberGame.exe
+G:\[CS252]HOMEWORK-20150507\GuessNumberGame\obj\Debug\GuessNumberGame.pdb
+G:\[CS252]HOMEWORK-20150507\GuessNumberGame\bin\Debug\GuessNumberGame.exe
+G:\[CS252]HOMEWORK-20150507\GuessNumberGame\bin\Debug\GuessNumberGame.pdb
+G:\[CS252]HOMEWORK-20150507\GuessNumberGame\obj\Debug\GuessNumberGame.csprojResolveAssemblyReference.cache
+C:\Users\PeNg_TiGeR\Documents\GitHub\CS252-HOMEWORK\NumberGuessName\GuessNumberGame\bin\Debug\GuessNumberGame.exe.config
+C:\Users\PeNg_TiGeR\Documents\GitHub\CS252-HOMEWORK\NumberGuessName\GuessNumberGame\obj\Debug\GuessNumberGame.exe
+C:\Users\PeNg_TiGeR\Documents\GitHub\CS252-HOMEWORK\NumberGuessName\GuessNumberGame\obj\Debug\GuessNumberGame.pdb

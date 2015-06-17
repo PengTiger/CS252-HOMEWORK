@@ -1,0 +1,12 @@
+c:\users\m_pofan\documents\visual studio 2013\Projects\[CS252]HOMEWORK-20150507\FingerGuessGame\bin\Debug\FingerGuessGame.exe.config
+c:\users\m_pofan\documents\visual studio 2013\Projects\[CS252]HOMEWORK-20150507\FingerGuessGame\bin\Debug\FingerGuessGame.exe
+c:\users\m_pofan\documents\visual studio 2013\Projects\[CS252]HOMEWORK-20150507\FingerGuessGame\bin\Debug\FingerGuessGame.pdb
+c:\users\m_pofan\documents\visual studio 2013\Projects\[CS252]HOMEWORK-20150507\FingerGuessGame\obj\Debug\FingerGuessGame.csprojResolveAssemblyReference.cache
+c:\users\m_pofan\documents\visual studio 2013\Projects\[CS252]HOMEWORK-20150507\FingerGuessGame\obj\Debug\FingerGuessGame.exe
+c:\users\m_pofan\documents\visual studio 2013\Projects\[CS252]HOMEWORK-20150507\FingerGuessGame\obj\Debug\FingerGuessGame.pdb
+C:\Users\PeNg_TiGeR\Documents\GitHub\CS252-HOMEWORK\NumberGuessName\FingerGuessGame\bin\Debug\FingerGuessGame.exe.config
+C:\Users\PeNg_TiGeR\Documents\GitHub\CS252-HOMEWORK\NumberGuessName\FingerGuessGame\obj\Debug\FingerGuessGame.exe
+C:\Users\PeNg_TiGeR\Documents\GitHub\CS252-HOMEWORK\NumberGuessName\FingerGuessGame\obj\Debug\FingerGuessGame.pdb
+C:\Users\PeNg_TiGeR\Documents\GitHub\CS252-HOMEWORK\NumberGuessName\FingerGuessGame\bin\Debug\FingerGuessGame.exe
+C:\Users\PeNg_TiGeR\Documents\GitHub\CS252-HOMEWORK\NumberGuessName\FingerGuessGame\bin\Debug\FingerGuessGame.pdb
+C:\Users\PeNg_TiGeR\Documents\GitHub\CS252-HOMEWORK\NumberGuessName\FingerGuessGame\obj\Debug\FingerGuessGame.csprojResolveAssemblyReference.cache
